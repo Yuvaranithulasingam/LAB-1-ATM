@@ -1,4 +1,4 @@
-# LAB-1                                                             <ALIGN= CENTER ATM and Banking SYSTEM/>
+# LAB-1                                                             <ALIGN= CENTER> ATM and Banking SYSTEM
 
 ## AIM: 
 To study the problem statement, SRS document and draw all the UML diagrams of ATM
